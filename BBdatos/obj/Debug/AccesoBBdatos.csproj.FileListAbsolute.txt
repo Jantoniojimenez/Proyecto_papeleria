@@ -1,0 +1,5 @@
+C:\Users\anton\OneDrive\source\repos\BBdatos\obj\Debug\AccesoBBdatos.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\source\repos\BBdatos\bin\Debug\BBdatos.dll
+C:\Users\anton\OneDrive\source\repos\BBdatos\bin\Debug\BBdatos.pdb
+C:\Users\anton\OneDrive\source\repos\BBdatos\obj\Debug\BBdatos.dll
+C:\Users\anton\OneDrive\source\repos\BBdatos\obj\Debug\BBdatos.pdb
