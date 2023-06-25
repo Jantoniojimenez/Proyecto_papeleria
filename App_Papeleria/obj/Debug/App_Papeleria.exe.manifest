@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="App_Papeleria.exe" size="31232">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="App_Papeleria.exe" size="31744">
       <assemblyIdentity name="App_Papeleria" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>zAIreoQX4iiEC4We8gOF1UPP+1V4ZIi9TVFi5ubxX/A=</dsig:DigestValue>
+        <dsig:DigestValue>PKNBCXoeWE3H+2iby/wDQt/FSPPNi05XkcI3VLgyRBI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>iz0VAA65L7u3gw1adFtdyBEmGiQO8MhsVek1uqXIzZs=</dsig:DigestValue>
+        <dsig:DigestValue>P/r9TAWVl/TBzeAAir2nz1Z5hdE9QCrp72dSP5CQkyM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -73,7 +73,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>czUB0ki4Vkq5Xp7t1ZnJTWPd/xb4cY5DW9fipLY26Aw=</dsig:DigestValue>
+        <dsig:DigestValue>C5hlKWvY+T8DvPOfHD+ukw2/ZjmE3KEiwThWamRYUEo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -109,7 +109,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>eWh2KdPo59pu/w61eaynW5kpeFVCHxT8CRVxlqdCAw4=</dsig:DigestValue>
+        <dsig:DigestValue>FpYt3ag8N22ppanB6fPtfFb0iFUMs6+5aDyBZG3+73U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -176,7 +176,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>5fW1tTWf4F3NBd1ivyfa7GKJbqj1M6KLDOKU8Tewgfc=</dsig:DigestValue>
+      <dsig:DigestValue>LJygS7KExsQQMx0leFLGJ1KBYSdjL18Ryx83uzZZ/Cw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="BBdatos.pdb" size="46592">
@@ -185,7 +185,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>7Qkh+79JWnomsgh/rsnnGs/EwGkoOakx+GMajwzVsVE=</dsig:DigestValue>
+      <dsig:DigestValue>6a7RUqWImRhKUhSItegBoxirtgM+4QZAm+a4C+jkh/M=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ManejoDatos.pdb" size="30208">
@@ -194,7 +194,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>AVrQ0tG5CKDoizk6YEVVyv/VGAKjQf5QKAaNRk8j1yw=</dsig:DigestValue>
+      <dsig:DigestValue>z77Z6sd7EkEF+aLj1zUB1ed4RyeU2JSyK4+OfYKn2Bo=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
